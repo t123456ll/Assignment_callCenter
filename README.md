@@ -53,4 +53,6 @@ To handle the ambiguity, I need to make sure what is the size of this call cente
    We should have multiple threads for each staffer and I also don't want to create + start + terminate them one by one, it will cost too much. So I used thread pool to help with management
 
 
-
+### Reference
+1. crack the coding interview
+2. 
