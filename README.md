@@ -55,4 +55,4 @@ To handle the ambiguity, I need to make sure what is the size of this call cente
 
 ### Reference
 1. crack the coding interview
-2. 
+2. https://github.com/santossousa/Call-center basics strcuture from this repo. I improved it a little bit and added the main execution class
